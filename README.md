@@ -21,4 +21,4 @@ JavaScript (JQuery)
 PHP
 MySQL 
 
-Link to live site: https://thebluecarpet.net/register.php
+Link to live site. Please signup for a free account so you can view the site: https://thebluecarpet.net/register.php
